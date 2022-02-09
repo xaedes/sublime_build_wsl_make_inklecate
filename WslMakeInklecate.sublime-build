@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "wsl.exe --cd \"$folder\" make",
+    "file_regex": "ERROR: '([^']+)' line (\\d+)(): ([^\"]+)"
+}
